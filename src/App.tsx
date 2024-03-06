@@ -3,9 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const blah = 'hi';
 
-  const blah = "hi"
-  
   return (
     <div className="App">
       <header className="App-header">
@@ -19,9 +18,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-          Kimberly was here
+          Learn React Kimberly was here
         </a>
+        <>Change to save to github</>
       </header>
     </div>
   );
