@@ -3,6 +3,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+  const blah = "hi"
+  
   return (
     <div className="App">
       <header className="App-header">
@@ -17,6 +20,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          Kimberly was here
         </a>
       </header>
     </div>
